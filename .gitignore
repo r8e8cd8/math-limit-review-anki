@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.Python
+.env
+.venv/
+venv/
+
+# LaTeX→PNG 缓存（墨墨图片版，体积大，本地生成即可）
+_apkg_media/
+_test_math/
+
+# 生成产物（运行脚本后本地得到；Release 可附 Anki 版）
+*.apkg
